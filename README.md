@@ -35,3 +35,25 @@ Develop a two-page web application using HTML, CSS, and JavaScript that includes
 ## Installation
 
 If you have the code on GitHub:
+
+#use
+git clone 
+Otherwise, download the project files.
+
+Open `index.html` in a web browser to start using the application.
+
+## Technologies Used
+
+*   HTML5
+*   CSS3
+*   JavaScript (ES6)
+*   LocalStorage (for data persistence)
+
+## Usage
+
+1.  Go to the Admin Dashboard and add problems & solutions.
+2.  Use the User Search Page to find solutions based on search queries.
+
+## License
+
+This project is open-source. You are free to use and modify it as needed.
