@@ -36,8 +36,10 @@ Develop a two-page web application using HTML, CSS, and JavaScript that includes
 
 If you have the code on GitHub:
 
-#use
-git clone 
+use
+
+git clone https://github.com/RanaSameerWaqar/The-Book-Navigator.git
+
 Otherwise, download the project files.
 
 Open `index.html` in a web browser to start using the application.
